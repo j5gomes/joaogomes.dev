@@ -10,7 +10,7 @@
 	<title>joaogomes.dev - My own piece of the internet.</title>
 	<meta
 		name="description"
-		content="My name is João Gomes, Im 22 years old developer from Portugal 🇵🇹"
+		content="My name is João Gomes, Im 23 years old developer from Portugal 🇵🇹"
 	/>
 
 	<!-- Facebook Meta Tags -->
@@ -30,7 +30,7 @@
 	<meta name="twitter:title" content="joaogomes.dev - My own piece of the internet." />
 	<meta
 		name="twitter:description"
-		content="My name is João Gomes, Im 22 years old developer from Portugal 🇵🇹"
+		content="My name is João Gomes, Im 23 years old developer from Portugal 🇵🇹"
 	/>
 	<meta property="twitter:image" content="{$page.url.origin}/og.png" />
 
@@ -44,8 +44,8 @@
 			<h1 class="font-bold text-4xl">About me.</h1>
 			<div class="flex flex-col gap-4 w-full md:max-w-md">
 				<p class="text-zinc-400 font-mono">
-					My name is <span class="text-purple-500 font-semibold">João Gomes</span>, Im 22 years old
-					and I live in Espinho, Portugal. 🇵🇹
+					My name is <span class="text-purple-500 font-semibold">João Gomes</span>, Im 23 years old
+					from Portugal. 🇵🇹
 				</p>
 				<p class="text-zinc-400 font-mono">
 					In my free time, I enjoy playing video games, watching movies, listening to music and most
@@ -133,10 +133,8 @@
 
 				<div class="gap-1">
 					<p class="text-2xl font-bold text-yellow-500">🪪 Web Developer - Internship</p>
-					<div class="text-lg">
-						<a href="https://www.unizon.pt" class="underline underline-offset-4" target="blank"
-							>Unizon</a
-						>
+					<div class="text-lg flex gap-1">
+						<p>Unizon</p>
 						<span> • </span>
 						Remote | Porto, Portugal 🇵🇹
 					</div>
