@@ -10,7 +10,7 @@
 				<NavItem href="/me" text="Me" />
 				<!-- <NavItem href="/me/uses" text="What i use" /> -->
 				<!-- <NavItem href="/projects" text="Projects" /> -->
-				<NavItem href="/guestbook" text="Guestbook" />
+				<!-- <NavItem href="/guestbook" text="Guestbook" /> -->
 			</nav>
 
 			<div class="flex gap-2">
