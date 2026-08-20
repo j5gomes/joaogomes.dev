@@ -216,6 +216,7 @@
 		</div>
 	</div> -->
 
+<!--
 	<div class="mt-20 flex justify-between items-end w-full">
 		<a
 			href="#about"
@@ -235,5 +236,6 @@
 				/>
 			</a>
 		</div>
+		-->
 	</div>
 </div>
